@@ -11,7 +11,8 @@ Mas, esse não é o foco.
 Você é uma barista em VA-11 HALL-A, apelidado carinhosamente de "Valhalla". Apesar de ser apenas um pequeno bar nos subúrbios, ela atrai as pessoas mais fascinantes dessa distopia. Mantenha seus crientes bem "hidratados" e você terá as histórias mais interressantes.
 
 # SOBRE OS CRIADORES
-- SITE OFICIAL: http://waifubartending.com
+
+SITE OFICIAL: http://waifubartending.com
 
 Contatos e Créditos dos criadores
 
@@ -27,7 +28,7 @@ Distribuidora: [Ysbryd Games](https://www.ysbryd.net)
 
 Trailer do jogo: https://www.youtube.com/watch?v=t5VzwwfuvOM
 
-#SOBRE A TRADUÇÃO
+# SOBRE A TRADUÇÃO
 Va-11 HALL-A foi lançado em 21 de Junho de 2016 (Sim, um tanto antigo) e trouxe uma proposta diferente de Visual Novel, onde sua única interação com os personagens (como player) são as bebidas que você faz.
 
 Percebi que me apeguei muito ao jogo, e imaginei (devido aos litros e litros de texto) como seria difícil pra alguém que não entende bulhufas de inglês (como meu irmão mais novo, por exemplo) aproveitar essa experiência, então resolvi tentar traduzir o jogo eu mesmo!
