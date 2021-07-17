@@ -1,5 +1,6 @@
 # VALLHALA_PT
 A Portuguese (BR) translation for Vall-11 HALL-A
+Sim, a descrição vai ficar em Inglês!
 
 # SOBRE
 VA-11 HALL-A: "Cyberpunk Bartender Action" é um jogo sobre Waifus, deixar pessoas bêbadas, tecnologias e um futuro distópico.
