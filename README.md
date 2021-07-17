@@ -38,7 +38,7 @@ Percebi que me apeguei muito ao jogo, e imaginei (devido aos litros e litros de 
 Eu não ganho **nada** com esse projeto e você pode aproveitar (e compartilhar, caso puder 😶) à vontade.
 
 # PROGRESSO ATUAL
-O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinha spra traduzir, então tenho plena consciência de que isso vai demorar um bocado.
+O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinhas pra traduzir, então tenho plena consciência de que isso vai demorar um bocado.
 
 - [ ] Demo (anna_script) - Em progresso (29 linhas de 750 T.T)
 
