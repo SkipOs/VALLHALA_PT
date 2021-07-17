@@ -40,7 +40,7 @@ Eu não ganho **nada** com esse projeto e você pode aproveitar (e compartilhar,
 # PROGRESSO ATUAL
 O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinhas pra traduzir, então tenho plena consciência de que isso vai demorar um bocado.
 
-- [ ] Demo (anna_script) - Em progresso (29 linhas de 750 T.T)
+- [ ] Tutorial (tutotial.txt) - Em progresso (29 linhas de 94)
 
 # COMO EXECUTAR A INSTALAÇÃO
 Eu não chamaria de instalar... Basicamente, o quê você tem que fazer, é ir nos arquivos do jogo, abrir a pasta "scripts" e copiar esse repositório, substituindo o texto em Inglês (pasta eng original) pela Tradução (pasta eng desse repósitório). Não se esqueça de fazer uma cópia dos arquivos originais pro caso de algo der tão errado que você me odeie. Conforme for avançando na tradução, vou atualizar o tutorial, isso aqui existe mais pra sanar duvidas gerais.
