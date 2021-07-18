@@ -6,7 +6,7 @@ Sim, a descrição vai ficar em Inglês!
 # SOBRE
 VA-11 HALL-A: "Cyberpunk Bartender Action" é um jogo sobre Waifus, deixar pessoas bêbadas, tecnologias e um futuro distópico.
 
-Nesse Mundo, megacorperações dominam o mundo, e toda a vida humana está infestada de nanôbos criados pra oprimir, e os assutadores Cavaleiros Brancos garantem que todos compram a lei.
+Nesse Mundo, megacorperações dominam o mundo, e toda a vida humana está infestada de nanôbos criados pra oprimir, e os assutadores Cavaleiros Brancos garantem que todos sigam as leis.
 
 Mas, esse não é o foco.
 
