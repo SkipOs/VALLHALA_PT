@@ -43,7 +43,7 @@ O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos 
 0. Falas da Anna (anna_script.txt) - Em progresso (12 linhas pré-jogo) 
 1. Capítulo 1 
    1. Tutorial (tutotrial.txt) - Terminado (94 linhas)
-   2. Dia 1 (script1.txt - Em progreso
+   2. Dia 1 (script1.txt) - Em progreso (49 linhas de 1049)
     
 
 # COMO EXECUTAR A INSTALAÇÃO
