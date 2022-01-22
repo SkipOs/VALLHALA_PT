@@ -10,7 +10,7 @@ Nesse Mundo, megacorperações dominam o mundo, e toda a vida humana está infes
 
 Mas, esse não é o foco.
 
-Você é uma barista em VA-11 HALL-A, apelidado carinhosamente de "Valhalla". Apesar de ser apenas um pequeno bar nos subúrbios, ela atrai as pessoas mais fascinantes dessa distopia. Mantenha seus crientes bem "hidratados" e você terá as histórias mais interressantes.
+Você é uma barista em VA-11 HALL-A, apelidado carinhosamente de "Valhalla". Apesar de ser apenas um pequeno bar nos subúrbios, ela atrai as pessoas mais fascinantes dessa distopia que é Cybercity. Mantenha seus crientes bem "hidratados" e você terá as histórias mais interressantes.
 
 # SOBRE OS CRIADORES
 
