@@ -31,7 +31,7 @@ Distribuidora: [Ysbryd Games](https://www.ysbryd.net)
 Trailer do jogo: https://www.youtube.com/watch?v=t5VzwwfuvOM
 
 # SOBRE A TRADUÇÃO
-Va-11 HALL-A foi lançado em 21 de Junho de 2016 (Sim, um tanto antigo) e trouxe uma proposta diferente de Visual Novel, onde sua única interação com os personagens (como player) são as bebidas que você faz.
+Va-11 HALL-A foi lançado em 21 de Junho de 2016 (Sim, um tanto antigo pra não ter uma tradução ou nenhum projeto trabalhando nisso) e trouxe uma proposta diferente de Visual Novel, onde sua única interação com os personagens (como player) são as bebidas que você faz.
 
 Percebi que me apeguei muito ao jogo, e imaginei (devido aos litros e litros de texto) como seria difícil pra alguém que não entende bulhufas de inglês (como meu irmão mais novo, por exemplo) aproveitar essa experiência, então resolvi tentar traduzir o jogo eu mesmo!
 
@@ -41,9 +41,10 @@ Eu não ganho **nada** com esse projeto e você pode aproveitar (e compartilhar,
 O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinhas pra traduzir, então tenho plena consciência de que isso vai demorar um bocado, pois além da tradução, é necessário acertar como o texto será exibido na tela!
 
 Arquivo   | Traduzido | Adaptado
---------- | ------ |---------
+:------: | :------: | :------:
 tutorial.txt | Sim | Sim
-
+anna_script.txt | Sim | Não
+epilougues.txt | Sim | Não
     
 
 # COMO EXECUTAR A INSTALAÇÃO
