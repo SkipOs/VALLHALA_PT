@@ -38,12 +38,12 @@ Percebi que me apeguei muito ao jogo, e imaginei (devido aos litros e litros de 
 Eu não ganho **nada** com esse projeto e você pode aproveitar (e compartilhar, caso puder 😶) à vontade.
 
 # PROGRESSO ATUAL
-O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinhas pra traduzir, então tenho plena consciência de que isso vai demorar um bocado.
+O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinhas pra traduzir, então tenho plena consciência de que isso vai demorar um bocado, pois além da tradução, é necessário acertar como o texto será exibido na tela!
 
-0. Falas da Anna (anna_script.txt) - Em progresso (12 linhas pré-jogo) 
-1. Capítulo 1 
-   1. Tutorial (tutotrial.txt) - Terminado (94 linhas)
-   2. Dia 1 (script1.txt) - Em progreso (49 linhas de 1049)
+Arquivo   | Traduzido | Adaptado
+--------- | ------ |---------
+tutorial.txt | Sim | Sim
+
     
 
 # COMO EXECUTAR A INSTALAÇÃO
