@@ -45,6 +45,7 @@ Arquivo   | Traduzido | Adaptado
 tutorial.txt | Sim | Sim
 anna_script.txt | Sim | Não
 epilougues.txt | Sim | Não
+gameover.txt | Sim | Não
     
 
 # COMO EXECUTAR A INSTALAÇÃO
