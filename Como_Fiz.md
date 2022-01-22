@@ -16,7 +16,7 @@ Segue uma lista das Sintaxes descobertas e seus significados:
 Sintaxe | Resultado no jogo
 ------------ | -------------
 `#` | Utilizado pra representar quebra de linha. O jogo não executa automaticamente, e não inserir um `#` no texto pode resultar na fala saindo da caixa de texto.
-`[E:<valor>]`| Desconhecido, mas aparece em todo começo de arquivo e em algusn finais de linha antes de um `[STOPLIP:]`.
+`[E:<valor>]`| Indica uma seção. Sempre deve estar em ordem numérica. Somente o conteúdo entre o numero ímpar até o próximo par será exibido/interpretado.
 `[STOPLIP:]` | Aparece em todo final de linha. Indica o fim da exibição do texto na caixa, e prepara a próxima.
 `[XS: ]` | Nunca aparece sozinho, Esse comando invoca uma subrotina.
 `[C:<valor>]` | `C:` é a declaração de Cor, o `<valor>` inserido vai resultar na cor co  seu respectivo Id.
@@ -24,3 +24,4 @@ Sintaxe | Resultado no jogo
 `[XS:ph,<valor>]` | Aparece sempre após um `[XS:mix,]` com o `<valor>` correspondente à bebida a ser feita. Sempre vem seguido de um `[E:<valor>]`.
 `[XS:<nome>face,<valor/reação>]` | Exibe a imagem do personagem de nome `<nome>` com o `<valor/expressão>`. 1 representa a posiçãod e "descanso" do personagem.
 `[XS:<nome>talk,<valor>]` | Faz com que o personagem `<nome>` com o `<valor/expressão>` ative a subrotina de fala (animação da boca).
+
