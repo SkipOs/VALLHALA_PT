@@ -9,13 +9,13 @@
 [XS:jilltalk,1][C:13]Jill:[C:C] Bem...[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Por que você não vai para casa hoje? #Descanse um pouco, eu cuido daqui.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] M-Mas Chefe...![STOPLIP:]
-[XS:danaface,preocupação][C:15]Dana:[C:C][XS:dantalk,1] Não me dê ordens, mocinha.[STOPLIP:]
+[XS:almaface,worry][C:15]Dana:[C:C][XS:dantalk,1] Não me dê ordens, mocinha.[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Bunda... hein?[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Preciso de você na melhor forma para toda a #equipe.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Descanse um pouco, limpe sua mente.[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Estou mandando você para o banco, soldado.[STOPLIP:]
-[XS:jilltalk,1][C:13]Jill:[C:C] (Banco? Soldado? ButtBo-... o quê?)[STOPLIP:][XS:client,-10][E:2]
-[RES:][XS:danaface,preocupação][C:15]Dana:[C:C][XS:dantalk,1] ...[STOPLIP:]
+[XS:jilltalk,1][C:13]Jill:[C:C] (Banco? Soldado? M-MasChe-... o quê?)[STOPLIP:][XS:client,-10][E:2]
+[RES:][XS:almaface,worry][C:15]Dana:[C:C][XS:dantalk,1] ...[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Chefe?[STOPLIP:]
 [XS:dantalk,1][C:15]Dana:[C:C] Jill, por que você não tira o resto do dia #de folga?[STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Hein? Por quê?[STOPLIP:]
@@ -35,7 +35,7 @@
 [XS:dantalk,1][C:15]Dana:[C:C] Vamos lá. Venha aqui. Gil cuidará do forte #enquanto saímos.[STOPLIP:][XS:client,-10][E:4]
 [RES:][HIDEALL:][C:15]Dana:[C:C][XS:dantalk,1] JIIIIIIIIIIIIIIIIIIIIIILL!![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Chefe?
-[SHOW:185,sprite_dana][XS:danaface,preocupação][XS:jilltalk,1][C:13]Jill:[C:C] Você não estava fora?
+[SHOW:185,sprite_dana][XS:almaface,worry][XS:jilltalk,1][C:13]Jill:[C:C] Você não estava fora?
 [XS:dantalk,1][C:15]Dana:[C:C] Eu estava... e voltei porque você está #relaxando![STOPLIP:]
 [XS:jilltalk,1][C:13]Jill:[C:C] Eu tenho?
 [XS:dantalk,1][C:15]Dana:[C:C] Sim! Você tem servido bebidas fáceis uma #após a outra, não é? Bebidas erradas.[STOPLIP:]
