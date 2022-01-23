@@ -46,7 +46,12 @@ tutorial.txt | Sim | Sim
 anna_script.txt | Sim | Não
 epilougues.txt | Sim | Não
 gameover.txt | Sim | Não
-    
+script1.txt | Sim | Não
+script2.txt | Sim | Não
+script3.txt | Sim | Não
+script4.txt | Sim | Não
+script5.txt | Sim | Não
+
 
 # COMO EXECUTAR A INSTALAÇÃO
 Eu não chamaria de instalar... Basicamente, o quê você tem que fazer, é ir nos arquivos do jogo, abrir a pasta "scripts" e copiar esse repositório, substituindo o texto em Inglês (pasta eng original) pela Tradução (pasta eng desse repósitório). Não se esqueça de fazer uma cópia dos arquivos originais pro caso de algo der tão errado que você me odeie. Conforme for avançando na tradução, vou atualizar o tutorial, isso aqui existe mais pra sanar duvidas gerais.
