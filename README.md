@@ -57,4 +57,4 @@ script17.txt | Sim | Não |  | script18.txt | Sim | Não
 script19.txt | Sim | Não |  |  |  |  |  |  |  |  |  | 
 
 # COMO EXECUTAR A INSTALAÇÃO
-Eu não chamaria de instalar... Basicamente, o quê você tem que fazer, é ir nos arquivos do jogo, abrir a pasta "scripts" e copiar esse repositório, substituindo o texto em Inglês (pasta eng original) pela Tradução (pasta eng desse repósitório). Não se esqueça de fazer uma cópia dos arquivos originais pro caso de algo der tão errado que você me odeie. Conforme for avançando na tradução, vou atualizar o tutorial, isso aqui existe mais pra sanar duvidas gerais.
+Eu não chamaria de instalar... Basicamente, o quê você tem que fazer, é ir nos arquivos do jogo, e colar esse repositório, substituindo o texto em Inglês (pasta eng original) pela Tradução (pasta eng desse repósitório), juntamente com o arquivo `data.win`. Não se esqueça de fazer uma cópia dos arquivos originais pro caso de algo der tão errado que você me odeie. Conforme for avançando na tradução, vou atualizar o tutorial, isso aqui existe mais pra sanar duvidas gerais.
