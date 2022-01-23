@@ -1,3 +1,4 @@
+
 # VALLHALA_PT
 A Portuguese (BR) translation for Vall-11 HALL-A
 
@@ -40,18 +41,20 @@ Eu não ganho **nada** com esse projeto e você pode aproveitar (e compartilhar,
 # PROGRESSO ATUAL
 O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos capítulos, cada um com mais de 300 linhas cheias de coisinhas pra traduzir, então tenho plena consciência de que isso vai demorar um bocado, pois além da tradução, é necessário acertar como o texto será exibido na tela!
 
-Arquivo   | Traduzido | Adaptado
-:------: | :------: | :------:
-tutorial.txt | Sim | Sim
-anna_script.txt | Sim | Não
-epilougues.txt | Sim | Não
-gameover.txt | Sim | Não
-script1.txt | Sim | Não
-script2.txt | Sim | Não
-script3.txt | Sim | Não
-script4.txt | Sim | Não
-script5.txt | Sim | Não
-
+Arquivo   | Traduzido | Adaptado |  | Arquivo | Traduzido | Adaptado
+:------: | :------: | :------: | :------: | :------: | :------: | :------:
+anna_script.txt | Sim | Não |  | gameover.txt | Sim | Não
+epilougues.txt | Sim | Não |  | tutorial.txt | Sim | Sim
+script1.txt | Sim | Não |  | script2.txt | Sim | Não
+script3.txt | Sim | Não |  | script4.txt | Sim | Não
+script5.txt | Sim | Não |  | script6.txt | Sim | Não
+script7.txt | Sim | Não |  | script8.txt | Sim | Não
+script9.txt | Sim | Não |  | script10.txt | Sim | Não
+script11.txt | Sim | Não |  | script12.txt | Sim | Não
+script13.txt | Sim | Não |  | script14.txt | Sim | Não
+script15.txt | Sim | Não |  | script16.txt | Sim | Não
+script17.txt | Sim | Não |  | script18.txt | Sim | Não
+script19.txt | Sim | Não |  |  |  |  |  |  |  |  |  | 
 
 # COMO EXECUTAR A INSTALAÇÃO
 Eu não chamaria de instalar... Basicamente, o quê você tem que fazer, é ir nos arquivos do jogo, abrir a pasta "scripts" e copiar esse repositório, substituindo o texto em Inglês (pasta eng original) pela Tradução (pasta eng desse repósitório). Não se esqueça de fazer uma cópia dos arquivos originais pro caso de algo der tão errado que você me odeie. Conforme for avançando na tradução, vou atualizar o tutorial, isso aqui existe mais pra sanar duvidas gerais.
