@@ -44,7 +44,7 @@ O jogo contém mais de 28 arquivos de texto com o roteiro (fala) de cada um dos 
 Arquivo   | Traduzido | Adaptado |  | Arquivo | Traduzido | Adaptado
 :------: | :------: | :------: | :------: | :------: | :------: | :------:
 anna_script.txt | Sim | Não |  | gameover.txt | Sim | Não
-epilougues.txt | Sim | Não |  | tutorial.txt | Sim | Sim
+epilougues.txt | Sim | Não |  | tutorial.txt | Sim | Não
 script1.txt | Sim | Não |  | script2.txt | Sim | Não
 script3.txt | Sim | Não |  | script4.txt | Sim | Não
 script5.txt | Sim | Não |  | script6.txt | Sim | Não
